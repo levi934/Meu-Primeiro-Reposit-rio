@@ -1,7 +1,8 @@
-Este repositório marca o início da sua jornada no GitHub — um projeto simples em HTML que representa seu primeiro repositório.
+Este repositório marca o início da sua jornada no GitHub — um projeto simples em HTML que representa meu primeiro repositório.
 
  Conteúdo:
-index.html: um arquivo HTML básico, geralmente com uma estrutura inicial como título, parágrafo e possivelmente links ou imagens.
+ 
+1. index.html: um arquivo HTML básico, geralmente com uma estrutura inicial como título, parágrafo e possivelmente links ou imagens.
 
 README.md: este arquivo, que apresenta conteúdos essenciais sobre o que é o projeto.
 
